@@ -1,0 +1,10 @@
+.footer {
+    background-color: #333333;
+}
+
+.footer__link {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}

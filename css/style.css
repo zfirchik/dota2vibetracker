@@ -4,5 +4,6 @@
 /* @import "global/visually-hidden.css"; */
 
 @import "blocks/header.css";
+@import "blocks/footer.css";
 @import "blocks/container.css";
 @import "blocks/winrate.css";
