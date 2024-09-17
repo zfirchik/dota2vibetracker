@@ -1,0 +1,8 @@
+/* global */
+
+@import "global/reboot.css";
+/* @import "global/visually-hidden.css"; */
+
+@import "blocks/header.css";
+@import "blocks/container.css";
+@import "blocks/winrate.css";
